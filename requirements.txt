@@ -180,8 +180,8 @@ python-language-server @ file:///C:/ci/python-language-server_1594162130238/work
 python-louvain @ file:///tmp/build/80754af9/python-louvain_1612304551119/work
 pytz==2020.1
 PyWavelets==1.1.1
-pywin32==227
-pywin32-ctypes==0.2.0
+#pywin32==227
+#pywin32-ctypes==0.2.0
 pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.1
@@ -225,7 +225,7 @@ statsmodels==0.11.1
 sympy @ file:///C:/ci/sympy_1594234545115/work
 tables==3.6.1
 tblib==1.6.0
-terminado==0.8.3
+#terminado==0.8.3
 testpath==0.4.4
 threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
 toml @ file:///tmp/build/80754af9/toml_1592853716807/work
